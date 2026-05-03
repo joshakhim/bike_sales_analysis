@@ -30,7 +30,7 @@ The project includes data cleaning, pivot table analysis, and dashboard visualiz
 
 ## 📊 Dashboard Preview
 
-![Dashboard]image/dashboard.png)
+![Dashboard]Image/dashboard.png)
 
 ---
 
